@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\build\Netricks_API.props" />
+</Project>
